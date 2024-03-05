@@ -1,0 +1,14 @@
+asgiref==3.7.2
+certifi==2023.11.17
+charset-normalizer==3.3.2
+Django==5.0.1
+django-db-connection-pool==1.2.4
+greenlet==3.0.3
+idna==3.6
+mysqlclient==2.2.1
+requests==2.31.0
+SQLAlchemy==2.0.28
+sqlparams==6.0.1
+sqlparse==0.4.4
+typing_extensions==4.10.0
+urllib3==2.2.0
